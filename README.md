@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Twitter Entity Sentiment: ANN vs RNN vs LSTM vs GRU vs BiLSTM
 
 Perbandingan lima arsitektur neural network (TensorFlow/Keras) untuk klasifikasi sentimen tweet berbahasa Inggris (Negative / Neutral / Positive) pada dataset *Twitter Entity Sentiment Analysis*.
@@ -74,3 +75,7 @@ Python, TensorFlow/Keras, scikit-learn, pandas, NumPy, Matplotlib, Seaborn.
 ## Penulis
 
 Cindy Faiza Nabila - Teknik Informatika, Universitas Negeri Malang
+=======
+# Sentiment-analysis-neural-models
+Comparing ANN, RNN, LSTM, GRU, and BiLSTM for 3-class tweet sentiment classification with leakage-free group splits
+>>>>>>> 735fcb8b970a88d941dac46a7e9bc082b6159e64
